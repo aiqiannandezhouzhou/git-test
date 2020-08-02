@@ -15,4 +15,8 @@ public class FirstClass {
     public void test1(){
         System.out.println("这是test1方法");
     }
+
+    public void test2(){
+        System.out.println("这是test2方法");
+    }
 }
